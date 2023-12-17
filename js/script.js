@@ -22,14 +22,14 @@ IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
 CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 */
 
-const RADIO_NAME = "Rock FM";
+const RADIO_NAME = "Bintang Tenggara";
 
 // URL of SHOUTCast streaming without / on the final, eg: http://streaming.com:8080
-const URL_STREAMING = "https://ssg.streamingmurah.com:9560";
+const URL_STREAMING = "hhttps://sv.stri.my.id/radio/8360/rbtfm";
 
 // Software type of your streaming server: icecast and shoutcast are both supported.
 // When choosing icecast, make sure the file 'player.log' in the document root is writeable.
-const STREAMING_TYPE = "shoutcast";
+const STREAMING_TYPE = "icecast,";
 
 // Visit https://api.vagalume.com.br/docs/ to get your API key
 const API_KEY = "18fe07917957c289983464588aabddfb";

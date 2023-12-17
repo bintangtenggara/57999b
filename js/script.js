@@ -25,7 +25,7 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 const RADIO_NAME = "Bintang Tenggara";
 
 // URL of SHOUTCast streaming without / on the final, eg: http://streaming.com:8080
-const URL_STREAMING = "https://sv.stri.my.id/radio/8360/rbtfm";
+const URL_STREAMING = "https://stream.zeno.fm/r4mpcrfwfzzuv";
 
 // Software type of your streaming server: icecast and shoutcast are both supported.
 // When choosing icecast, make sure the file 'player.log' in the document root is writeable.
